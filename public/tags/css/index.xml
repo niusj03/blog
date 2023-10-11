@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>css on Shengjie&#39;s Blog</title>
+    <link>https://niusj03.github.io/blog/tags/css/</link>
+    <description>Recent content in css on Shengjie&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Oct 2023 20:11:33 +0800</lastBuildDate><atom:link href="https://niusj03.github.io/blog/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Passage</title>
+      <link>https://niusj03.github.io/blog/posts/second/</link>
+      <pubDate>Wed, 11 Oct 2023 20:11:33 +0800</pubDate>
+      
+      <guid>https://niusj03.github.io/blog/posts/second/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Static Website Generator by Hugo</title>
+      <link>https://niusj03.github.io/blog/posts/first/</link>
+      <pubDate>Wed, 11 Oct 2023 20:11:33 +0800</pubDate>
+      
+      <guid>https://niusj03.github.io/blog/posts/first/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
