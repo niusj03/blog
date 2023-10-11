@@ -1,0 +1,50 @@
+baseURL: "https://niusj03.github.io/blog"
+languageCode: en-us
+title: Shengjie's Blog
+theme: "PaperMod"
+
+
+params:
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there, I'm Shengjie"
+    Content: "Welcome to my blog, I just write down my learning notes and wish you find something useful here."
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/"
+    - name: stackoverflow
+      url: "https://stackoverflow.com"
+    - name: github
+      url: "https://github.com/"
+
+
+
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+
+
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+    - identifier: example
+      name: emojisearch
+      url: https://www.emojisearch.app/
+      weight: 40
