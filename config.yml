@@ -7,16 +7,19 @@ theme: "PaperMod"
 params:
   # home-info mode
   homeInfoParams:
-    Title: "Hi there, I'm Shengjie"
-    Content: "Welcome to my blog, I just write down my learning notes and wish you find something useful here."
+    Title: "Hello everyone, welcome to my blog"
+    Content: "In both theoretical studies and practical projects, I often face recurring challenges. However, I always fail to find immediate solutions, leading me to consistently search for answers.
+    Occasionally, unforeseen errors arise. I've found that this can be quite time-consuming and draining. That's why I've created this blog, documenting my learning notes and experimental guides.
+    
+    \n\n~
+    
+    \nMany thinks for visiting, and wish you find something valuable here."
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: Rss
+      url: "index.xml"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/niusj03"
 
 
 
@@ -44,7 +47,11 @@ menu:
       name: Archives
       url: /archives/
       weight: 30
+    - identifier: mathtex
+      name: MathTex
+      url: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.math.uci.edu/~xiangwen/pdf/LaTeX-Math-Symbols.pdf
+      weight: 40
     - identifier: example
       name: emojisearch
       url: https://www.emojisearch.app/
-      weight: 40
+      weight: 50
